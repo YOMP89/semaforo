@@ -2,7 +2,7 @@
 
 Aplicación web que simula el funcionamiento de un semáforo real con cambios automáticos de color cada 5 segundos, desarrollado con tecnologías web básicas (HTML, CSS y JavaScript).
 
-![Semaforo Demo](https://via.placeholder.com/400x600/333/fff?text=Semaforo+Demo)
+![Semaforo Demo](CapturaSemaforo.png)
 
 ## Características Principales
 - ✅ Cambio automático de colores cada 5 segundos
